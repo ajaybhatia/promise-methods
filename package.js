@@ -1,5 +1,5 @@
 Package.describe({
-  name: "promise-methods",
+  name: "ajaybhatia:promise-methods",
   version: "0.0.1",
   summary: "Utility for Promise-based method calls in Meteor",
   git: "https://github.com/ajaybhatia/promise-methods.git",
